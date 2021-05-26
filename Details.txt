@@ -1,0 +1,15 @@
+Images & Details will be in the Description:
+-------------------------------------------------------------
+
+Poppins :: 
+PlayFair Display ::
+
+@import url('https://fonts.googleapis.com/css2?family=PlayfairDisplay&family=Poppins:wght@400;500&display=swap');
+
+------------
+Yellows : light-- d4d68f, dark -- acae61
+------------
+black - 30%
+black - 10%
+5e5e5e
+949494 - 50%
